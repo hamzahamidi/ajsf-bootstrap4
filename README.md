@@ -1,4 +1,4 @@
-# ajsf demo core
+# ajsf-boostrap4 demo
 
 [![Build Status](https://travis-ci.com/hamzahamidi/ajsf-demo-bootstrap4.svg?branch=master)](https://travis-ci.com/hamzahamidi/ajsf-demo-bootstrap4)
 
